@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <a href="https://nandita27iitp.netlify.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6" /></a>
-  <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6" /></a>
-  <a href="https://instagram.com/_nan_dita27_"><img height="30" src="https://img.shields.io/badge/Instagram-Click-%230e75b6" /></a>
+  <a href="https://nandita27iitp.netlify.app/"><img height="30" src="" /></a>
+  <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img height="30" src="[https://img.shields.io/badge/LinkedIn-Click-%230e75b6](https://www.linkedin.com/in/ayesha-loladia13/)" /></a>
+  <a href="https://instagram.com/_nan_dita27_"><img height="30" src=" /></a>
 </p>
 
 ## :zap: About Me 👦
-- 👋 Hi, I'm a B.Tech Student of **Indian Institute of Technology (IIT), Patna** 🧑‍💻🎉
+- 👋 Hi, I'm a B.Tech Student of **KJ Somaiya Institute of Technology** 🧑‍💻🎉
 - 🎊 I have a keen interest in **Full Stack Development** and **Machine Learning** and I love developing softwares, websites, models, and web apps 🏈🎯
 - 🎭 I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on **GitHub** and collaborate with others in the open source community 🎰♠️
-- 📫 Wanna interested in discussing potential collaborations, tech insights, or just want to say hi, contact me at nandita27iitp@gmail.com.
+- 📫 Wanna interested in discussing potential collaborations, tech insights, or just want to say hi, contact me at ayeshaloladia13@gmail.com.
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
