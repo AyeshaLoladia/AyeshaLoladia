@@ -278,29 +278,13 @@
   </tbody>
 </table>
 
-<!--## :zap: Trending Repositories 😍
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/nandita27iitp/AI-Tech">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Avdhesh-Varshney&repo=AI-Tech&color=0e75b6&style=flat&theme=nightowl&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Avdhesh-Varshney/WebMasterLog">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Avdhesh-Varshney&repo=WebMasterLog&color=0e75b6&style=flat&theme=nightowl&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
 
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## :zap: My GitHub Stats 📊
 <div align="center">
-  <a href="https://github.com/nandita27iitp">
+  <a href="https://github.com/AyeshaLoladia">
     <!-- Trophies -->
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=nandita27iitp&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
     <!-- Streak Counter -->
@@ -310,7 +294,7 @@
     <!-- Contributor Stats -->
     <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nandita27iitp&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
     <!-- Stats -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandita27iitp&theme=2077" height="210em" alt="Stats" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyeshaLoladia&theme=2077" height="210em" alt="Stats" />
     <!-- Top languages by commit -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nandita27iitp&theme=2077" height="210em" alt="Top languages by commit" />
     <!-- Top languages by repo -->
@@ -318,7 +302,7 @@
     <!-- Histogram of Commits -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nandita27iitp&theme=2077" height="210em" alt="Histogram of Commits" />
     <!-- Graph of Commits -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandita27iitp&theme=2077" height="210em" alt="Graph of Commits" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandita27ip&theme=2077" height="210em" alt="Graph of Commits" />
   </a>
 </div>
 
@@ -331,5 +315,5 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </div><br />
 
-[![Ayesha's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandita27iitp&&theme=github-compact)](https://github.com/nandita27iitp/github-readme-activity-graph)
+[![Ayesha's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyeshaLoladia&&theme=github-compact)](https://github.com/AyeshaLoladia/github-readme-activity-graph)
 
