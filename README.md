@@ -286,13 +286,13 @@
 <div align="center">
   <a href="https://github.com/AyeshaLoladia">
     <!-- Trophies -->
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nandita27iitp&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=AyeshaLoladia&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
     <!-- Streak Counter -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandita27iitp&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaLoladia&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
     <!-- Most Used Languages -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandita27iitp&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaLoladia&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
     <!-- Contributor Stats -->
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nandita27iitp&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AyeshaLoladia&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
     <!-- Stats -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyeshaLoladia&theme=2077" height="210em" alt="Stats" />
     <!-- Top languages by commit -->
