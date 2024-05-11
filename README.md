@@ -5,19 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I%27m+Ayesha+Loladia)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=COMPETITIVE+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;UI/UX+ENTHUSIAST)](https://git.io/typing-svg)
 
-<p align='center'>
-  <b><i>Let's connect! Find me on the web.</i></b>
-</p>
 
-<p align="center">
-  <a href="https://nandita27iitp.netlify.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6" /></a>
-  <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img height="30" src="[https://img.shields.io/badge/LinkedIn-Click-%230e75b6](https://www.linkedin.com/in/ayesha-loladia13/)" /></a>
-   <a href="https://instagram.com/_nan_dita27_"><img height="30" src="https://img.shields.io/badge/Instagram-Click-%230e75b6" /></a>
-</p>
 
 ## :zap: About Me 👦
 - 👋 Hi, I'm a B.Tech Student of **KJ Somaiya Institute of Technology** 🧑‍💻🎉
-- 🎊 I have a keen interest in **Full Stack Development** and **Machine Learning** and I love developing softwares, websites, models, and web apps 🏈🎯
+- 🎊 I have a keen interest in **Data Science** and **Machine Learning** and I love developing softwares, websites, models, and web apps 🏈🎯
 - 🎭 I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on **GitHub** and collaborate with others in the open source community 🎰♠️
 - 📫 Wanna interested in discussing potential collaborations, tech insights, or just want to say hi, contact me at ayeshaloladia13@gmail.com.
 
@@ -88,22 +80,22 @@
       <!-- Social Handles -->
       <td align="center">
         <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <!-- X -->
-        <a href="https://x.com/n_and_it_a_27"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+        <a href="https://www.linkedin.com/in/ayesha-loladia13"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <!-- X 
+        <a href="https://x.com/n_and_it_a_27"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a> -->
         <!-- Discord -->
         <!--<a href='https://discord.gg/z34NCDEddG'><img align="center" src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' /></a>-->
         <!-- Slack -->
         <!--<a href='https://join.slack.com/t/codea2zhub/shared_invite/zt-2acisskvp-PIeXqmvaocnc7Z_ENRT1VQ'><img align="center" src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white' alt='Slack' /></a>-->
-        <!-- Instagram -->
-        <a href="https://instagram.com/_nan_dita27_"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+        <!-- Instagram 
+        <a href="https://instagram.com/_nan_dita27_"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> -->
         <!-- YouTube -->
         <!--<a href="https://www.youtube.com/@Hack-Master"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>-->
         <!-- Telegram -->
         <!--<a href="https://t.me/hack_er_boy"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>-->
-        <!-- Facebook -->
+        <!-- Facebook 
         <a href="https://www.facebook.com/profile.php?id=100070728071906"><img align="center" src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-      </td>
+      </td> -->
       <!-- Coding Handles -->
       <!--<td align="center">
         <!-- HackerRank 
