@@ -20,12 +20,13 @@
 ## :zap: Open Source Programs 🎭
 <table align="center">
   <tr align="center">
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Contributor at <br> <a href="https://www.codepeak.tech/">Code Peak'23</a> </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍💻 Contributor at <br> <a href="https://www.socialwinterofcode.com/">SWOC'24</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Contributor at <br> <a href="https://www.codepeak.tech/">Code Peak</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍💻 Contributor at <br> <a href="https://www.socialwinterofcode.com/">SWOC</a> </td>
     <!--<td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <br> <a href="https://gssoc.girlscript.tech/">GSSOC'23</a> </td>-->
     <!--<td style="border-right: 1px solid #eeeeef;" align="center"> 🚀 Contributor at <br> <a href="https://hack2skill.com/hack/ssoc">SSOC'23</a> </td>-->
     <!--<td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Contributor at <br> <a href="https://hacktoberfest.com/">Hacktoberfest'23</a> </td>-->
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍🏫 Contributor at <br> <a href="https://www.jwoc.tech/">JWOC'24</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <br> <a href="https://ssoc.devfolio.co/">SSOC</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍🏫 Contributor at <br> <a href="https://www.jwoc.tech/">JWOC</a> </td>
   </tr>
   <!--<tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🎭 Contributor at <br> <a href="https://www.jwoc.tech/">JWOC'24</a> </td>
