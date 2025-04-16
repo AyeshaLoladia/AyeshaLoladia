@@ -70,15 +70,4 @@
 
 
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaloladia13&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaloladia13&theme=radical" />
-</p>
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaloladia13&layout=compact&theme=radical" />
-</p>
